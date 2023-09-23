@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!--- 🌱 I’m currently learning ASP.NET Core MVC & C#-->
   
 <div>
-	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EcLerk&count_private=true&show_icons=true&theme=prussian" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcLerk&layout=compact&hide=javascript&theme=prussian" />
+	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=EcLerk&count_private=true&show_icons=true&theme=prussian" />
+  	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcLerk&layout=compact&hide=javascript&theme=prussian" />
 </div>
