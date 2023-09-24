@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm Lera
+## Hi there 👋, I'm Lera
 I am studying at BSUIR and majoring in computer science. Currently lerning ASP.NET Core & C#.  
 You can find me on  <a href="https://www.linkedin.com/in/ecler"><img src="linkedin (1).png"></a>
 
