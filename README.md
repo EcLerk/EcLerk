@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, I'm Lera
-I am studying at BSUR and majoring in computer science. Currently lerning ASP.NET Core & C#.  
+I am studying at BSUIR and majoring in computer science. Currently lerning ASP.NET Core & C#.  
 You can find me on  <a href="https://www.linkedin.com/in/ecler"><img src="https://github.com/EcLerk/EcLerk/assets/87236352/53b1c3bf-2c4d-4cba-95eb-4a4e3f871383"></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EcLerk&theme=dark)
