@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am studying at BSUIR and majoring in computer science. Currently lerning ASP.NET Core MVC & C#    
 You can find me on  <a href="https://www.linkedin.com/in/ecler"><img src="linkedin (1).png"></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EcLerk&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EcLerk&count_private=true&include_all_commits=true&theme=dark)
 <!--- 🌱 I’m currently learning ASP.NET Core MVC & C#
 - 🔭 I’m currently working on this page. -->
 
