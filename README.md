@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋, I'm Lera
-I am studying at BSUIR and majoring in computer science    
+## Hi there 👋, I'm Lera 
 You can find me on  <a href="https://www.linkedin.com/in/ecler"><img src="linkedin (1).png"></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EcLerk&count_private=true&include_all_commits=true&theme=dark)
